@@ -1,0 +1,141 @@
+.header {
+
+    text-align: center;
+    letter-spacing: -0.001cm;
+    word-spacing: 5cm;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
+
+body {
+    text-align: center;
+    ;
+   background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAG4AAABuCAMAAADxhdbJAAAAM1BMVEX////8/Pz+/v7p6eno6Ojq6urz8/P7+/v9/f3t7e3v7+/29vbi4uLl5eXb29vf39/U1NRBQ9zsAAAEnElEQVRoge1a6ZryKgwua9np/V/tRxLU8Ewdq1M92iM/eEtMiCwpacg0TdFPUGxAyFgLoklNNIFgZoTE2a1ltNlwUMSeJdKop+lhdfarbm918U51UjZ1spWmrtVTdtCYDYLTSNMzNKSJUE+V2K1kUglps5IkjDSFUpMWSMOeGtHkapRSJhEsUCtdFJaCtKLh2dQMEBaPjcSlkE9lksqDFIEmjsm10UnnXPufAG10UNrooIg8Aa2NDjja6KCVJmS3XIpoEaVgdEBTJKUF0jTQ3Ka104+tndh/qxzAEB6czFVDmCLt5Q4ZbKOpkwCyG4KABqg7b3pQx4BooIcAWsje/iv2JLohaJ2K0q2kCmAWeNa5IGj8SZVMDYRmKgC1apJitC6VuZRZ8oUGQ4xhmExJkyn/PJmGpBTs/smp7Wu340vsDXfmJ6ubSU9fBVIniTbRAiuUmPygLv6U6n+yg3GsC9m3Ss51yVBqSa1O1DgD0DLVuVQE+qkQeymMVgfoUgS9QzY6Ppnj6PTN0aWtozv6VnkDdY5o0w4vMVp40dUJEb0TrdgAIBM8i1nNCBloLmNDmCiQQwIEK0iK0aISBCilkV1o1pM4nwjqdCKo4USAN72hd7viJ0JnP0uNJwJyUMPwswWGuGoIfTLvM4S5G0KfTMfWY6cT4SN35jNf0dR1/MUQ3FV19xpCjCFHKEEjVKxttgjUStiIOSAUrI1B8KrTLEp1YS5FYBM2phB8sqEVnaG2BergK9ICgq34HJInDmLXgUt1dibcpU7C1OG0bgirk+k3TqYYJ5M6/BrCEQxBrxlCpF183RA8GYLhUnrFELpxdEPwQaXgvQ+aoEDtTfVYCtEMPIeqsbVgnTJCzhepoCqCIaiGgPUEc/abISg+mX8xBPE/2ZlvoO6ZrpEh1wg9JJfIk9ErrpFCX8dVpIXAQCJNRE2ukWauUReO3TVSpgd58hg1MuocDTrHf/KFwyQeNfKLYeEiPUphrXrUaJNr9JghDK7RO22V46h79mmO6k5rZ63PFopBiAUbISHYSnVASIE4IoDS9gKd1qU6EHvvIhA0dYGr67/aUZ1dUWduqatr6l48mUffmW9gCBu+7x57iV17Ra8E9gsG9tde0Wb5JbCveGD/wQNI0MnTgNE2HEAvPl6PvjPfwBCe5tbe47Qr5rTnx5z2ez5J7K1PkuHbvLOn4ZPkxR9cR9+Zb2QIuwc6QjCnMI79EZAZwjiWh3Gs1gQ8jONvh3EsC1LZjYZgmSFAkMp247DDd/jFECzR7NcQPlzd/qHvlTugkyFcAvvl6lXvshLYr78F9tlVr1qGwP6fry0cu7bQw7UFSsnuZGn5dY0+Xt1LL0NTqiWnVkqBOi8JywBU51KJg7GfpZBWT8ClTj3hT2x0L7nIPvpW+SR1f04g2S89htjJFTh9LJ+Tf+rt5J+0LfknrZwIma6Qf6Y2yZ1Tm9SQ2vRfr9196g5gCDumFG5LmHQsYbJeT5hUPWFSsjTLMWHyRzqoupEO6ikd9BQ1IkCa0pWCR/V61Oj+ZNc0JLsyQ4BhsWRXQ1JjsuvXED5a3Zgw+VR1/wBpipcrpmy7VgAAAABJRU5ErkJggg==");
+    color: black;
+    
+    
+    
+    text-shadow: 0 0 20cm rgba(0, 0, 0, 0.3);
+    font-family: "zain", serif;
+
+}
+
+
+
+
+
+p {
+
+    font-size: larger;
+    font-family: "zain", serif;
+}
+
+img {
+    width: 60%;
+    height: auto;
+    /* Adjust the height to maintain aspect ratio */
+    display: block;
+    margin: 30px auto;
+    border: 3px solid #00a093;
+    box-shadow: 0 0 5cm rgba(0, 0, 0, 0.3);
+    border-radius: 33px;
+    object-fit: cover;
+   
+   
+    
+}
+
+
+.sponser {
+    width: 100%;
+    max-width: 330px;
+    height: auto;
+    margin: 0 auto;
+    /* Centers the element horizontally */
+}
+
+#s {
+    font-style: normal;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+#sp {
+    text-align: center;
+    font-size: xxx-large;
+    margin-top: 20px;
+}
+
+h1#h1 {
+    font-style: normal;
+    text-align: center;
+
+}
+
+sup {
+    text-align: left;
+    font-family: "zain", serif;
+
+}
+
+
+
+img:hover {
+
+ border-radius: 70px;
+transform: matrix3d();
+animation: img 2s ease-in-out infinite;
+
+
+}
+
+@keyframes img{
+    0%{
+        border-radius: 33px;
+    }
+    25%{
+        border: radius 43px;
+    }
+    50%{
+        border-radius: 50px;
+    }
+
+    75%{
+        border-radius: 43px;
+    }
+
+    100%{
+        border-radius: 33px;
+    }
+}
+
+
+
+
+iframe{
+width: 100%;
+border: #00a093 solid;
+border-radius: 22px;
+
+}
+
+
+
+.parallax {
+    background-image: url("img_parallax.jpg");
+  
+    
+    min-height: 500px;
+  
+    
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
